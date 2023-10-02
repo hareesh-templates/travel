@@ -1,5 +1,0 @@
-List of Fonts used in template 
-
-ChangaOne	http://www.google.com/webfonts/specimen/ChangaOne
-Opensans	http://www.google.com/webfonts/list?family=Open+Sans&subset=latin
-Trochut		http://www.google.com/webfonts/specimen/Trochut
